@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cadastro de Atletas</string>
+    <string name="autor">Gustavo de Paula 1110482313003</string>
+    <string name="atleta_juv">Atleta Juvenil</string>
+    <string name="atleta_com">Atleta Comum</string>
+    <string name="atleta_sen">Atleta Senior</string>
+    <string name="nome">Nome</string>
+    <string name="nascimento">Data de Nascimento</string>
+    <string name="bairro">Bairro</string>
+    <string name="academia">Academia</string>
+    <string name="recorde">Recorde</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="prob_cardiaco">Problema Cardiaco</string>
+    <string name="anos_praticados">Anos praticados</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
